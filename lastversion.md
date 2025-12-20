@@ -1,3 +1,3 @@
 ^^^
-Актуальная версия: Perfected | Combat Update
+Актуальная версия: Perfected v4
 ^^^
