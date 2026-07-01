@@ -1,3 +1,3 @@
 |||
-Актуальная версия: %#7eb526%Survivalists%#% %#98eb34%v5%#%
+Актуальная версия: %#dedede%Bumble Shield%#% %#ffed69%X%#% v1
 |||
