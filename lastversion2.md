@@ -1,3 +1,3 @@
 |||
-Актуальная версия: %#dedede%Bumble Shield%#% %#ffed69%2026%#% v1
+Актуальная версия: %#dedede%Bumble Shield%#% %#ffed69%2026%#% v2
 |||
