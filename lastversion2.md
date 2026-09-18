@@ -1,3 +1,3 @@
 |||
-Актуальная версия: %#8c8c8c%BS%#% %#dedede%2026%#% %#1a7b82%Stage II%#% v1
+Актуальная версия: Bumble Shield %#f58742%Dungeons%#% v1
 |||
