@@ -1,3 +1,3 @@
 |||
-Актуальная версия: Bumble Shield %#f58742%Dungeons%#% v2
+Актуальная версия: Bumble Shield %#3ec72c%Nuclear%#% v1
 |||
