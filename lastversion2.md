@@ -1,3 +1,3 @@
 |||
-Актуальная версия: Bumble Shield %#3ec72c%Nuclear%#% v3
+Актуальная версия: Bumble Shield %#e6e6e6%Air%#%%#5e82d6%Tech%#% v1
 |||
